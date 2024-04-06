@@ -416,7 +416,16 @@ Use this system at your own risk, it will not produce ‘well-balanced’ models
     * 5 = 32pts
 * Special Abilities: Pick them and pay the points.
 
+## TODO: Example Faction: The Cursed Court
 
+## Example Game Mode: Piñata
+
+Each player begins the game with a single Treasure Chest, which is placed on one of the central two squares of their back-line. The Treasure Chest is a piece of Moveable terrain.
+
+A Treasure chest may be targeted with attacks, but not if there is an enemy model in the same square as it. The Treasure chests have Defence 4 and 3 HP. Treasure chests cannot be pushed back.
+
+The first player to destroy the enemy Treasure Chest is the winner.
+ 
 
 ## Quick Reference
 

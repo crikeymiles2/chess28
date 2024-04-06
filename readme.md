@@ -8,7 +8,7 @@ We seek to liberate the chess board from a millennium of tedium. Let the richly-
 3. 28mm is a lie. #chess28 cares nothing for scale. If a miniature fits upon a chess square, let it be #chess28.
 
 ## Open Licence to my Chess28 Core Rules System
-I offer my Chess28 Core Rules System under a [Creative Commons CC by 4.0 licence](https://creativecommons.org/licenses/by/4.0/) for others to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to me as the creator. The licence allows for commercial use. The rules are available [here](https://planetsmashergames.com/chess28).
+I offer my Chess28 Core Rules System under a [Creative Commons CC by 4.0 licence](https://creativecommons.org/licenses/by/4.0/) for others to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to me as the creator. The licence allows for commercial use. The rules are available [here](https://github.com/crikeymiles2/chess28).
 
 Only the core rules system is covered by the creative commons licence, the specifics of my individual games remain proprietary to me, including but not limited to: the Game Modes, the Factions, the Characters and Units, any unit- or faction-specific Special Abilities and rules, as well as any setting, lore, fiction, illustrations, page and card layouts, and the names of the games.
 
